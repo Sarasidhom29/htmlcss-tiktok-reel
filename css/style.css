@@ -38,6 +38,9 @@ video {
 	*/
 }
 
+.option-text{
+	display: flex;
+}
 /* Footer */
 
 footer {
